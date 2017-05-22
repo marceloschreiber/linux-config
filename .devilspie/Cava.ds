@@ -1,0 +1,17 @@
+; generated_rule Cava
+( if 
+( begin 
+( is ( window_name ) "cava - cava" )
+) 
+( begin 
+( pin )
+( undecorate )
+( skip_pager )
+( skip_tasklist )
+( wintype "dock" )
+( maximize_horizontally )
+( geometry "1920x500+1920+631" )
+( below )
+( println "match" )
+)
+)
